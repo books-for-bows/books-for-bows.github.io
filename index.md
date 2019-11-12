@@ -16,3 +16,7 @@ Components of the web application:
 * Three main pages (Marketplace, Profile, Search) that uses the prior data collections and allows users to manipulate and filter through those collections.
 * Code that fills the database with default data for Users, Books, and Classes. To demonstrate usage of the marketplace.
 * A page to filter through different Classes and Books to query the collections to obtain a specific book.
+
+## Pages
+
+![useful image]({{ site.url }}/assets/landing-page.png)
