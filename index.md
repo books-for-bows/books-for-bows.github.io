@@ -21,6 +21,8 @@ Components of the web application:
 Some of the pages that we want to include as a basis for our site: 
 
 First of all, we want to include a landing page for our site. We would want it to include the title of our site as well as our purpose/mission. 
+
+<img src="asssets/css/landing-page.png">
 ![landing](https://github.com/books-for-bows/books-for-bows.github.io/blob/master/asssets/css/landing-page.png)
 
 Since we only want our site to be accessed by UH students, we would need some sort of way to only have UH students be able to access the information on the site. We could enforce this by restricting access to only the people who have logged in to our site. 
