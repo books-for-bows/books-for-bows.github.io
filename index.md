@@ -18,5 +18,11 @@ Components of the web application:
 * A page to filter through different Classes and Books to query the collections to obtain a specific book.
 
 ## Pages
+Some of the pages that we want to include as a basis for our site: 
 
-![useful image](https://github.com/books-for-bows/books-for-bows.github.io/blob/master/asssets/css/landing-page.png)
+First of all, we want to include a landing page for our site. We would want it to include the title of our site as well as our purpose/mission. 
+![landing](https://github.com/books-for-bows/books-for-bows.github.io/blob/master/asssets/css/landing-page.png)
+
+
+
+
