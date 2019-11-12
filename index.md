@@ -19,4 +19,4 @@ Components of the web application:
 
 ## Pages
 
-![useful image]({{ site.url }}/assets/landing-page.png)
+![useful image](https://github.com/books-for-bows/books-for-bows.github.io/blob/master/asssets/css/landing-page.png)
