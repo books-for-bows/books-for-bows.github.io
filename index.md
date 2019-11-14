@@ -23,7 +23,7 @@ This section provides information and sample mockups of the app's pages.
 
 ### Landing page
 The landing page is presented to users upon first visiting the site.
-<img src="assets/images/mockups/landing-mockup.png">
+<img src="assets/images/mockups/landing-mockup.PNG">
 
 ### Login 
 <img src="assets/images/signin-page.png">
