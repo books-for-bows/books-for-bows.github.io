@@ -12,7 +12,7 @@ Books for Bows is a web application that provides a market place for students to
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-You can view an early deployed version of the app here: [https://books-for-bows.meteorapp.com/#/](https://books-for-bows.meteorapp.com/)
+You can view an early deployed version of the app here: [https://books-for-bows.meteorapp.com/](https://books-for-bows.meteorapp.com/)
 
 Components of the web application:
 
