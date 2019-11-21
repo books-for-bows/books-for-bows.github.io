@@ -30,13 +30,13 @@ This section provides information and sample mockups of the app's pages.
 
 ### Landing page
 The landing page is presented to users upon first visiting the site.
-<img src="assets/images/mockups/landing-mockup.PNG" style="border: 1px solid black">
+<img src="assets/images/mockups/landing-mockup.png" style="border: 1.5px solid black">
 
 ### Login 
-<img src="assets/images/mockups/login-mockup.png" style="border: 1px solid black">
+<img src="assets/images/mockups/login-mockup.png" style="border: 1.5px solid black">
 
 ### Register 
-<img src="assets/images/mockups/register-mockup.png" style="border: 1px solid black">
+<img src="assets/images/mockups/register-mockup.png" style="border: 1.5px solid black">
 
 ### Marketplace
 Users will be able to see information about available textbook listings. Users don't need to be logged in to see this. If multiple users are selling the same book, only one card is shown. The card will display:
@@ -45,12 +45,12 @@ Users will be able to see information about available textbook listings. Users d
 - Author
 - Price (or price range if there are multiple sellers)
 - Course alphas that use the book
-<img src="assets/images/mockups/marketplace-mockup.png" style="border: 1px solid black">
+<img src="assets/images/mockups/marketplace-mockup.png" style="border: 1.5px solid black">
 
 ### Shelf
 When a user clicks on a card from the marketplace, they can see all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition or any pictures.
-<img src="assets/images/mockups/shelf-mockup.png" style="border: 1px solid black">
+<img src="assets/images/mockups/shelf-mockup.png" style="border: 1.5px solid black">
 
 ### Create Listing
 Logged in users can create listings that will be displayed on the marketplace.
-<image src="assets/images/mockups/createlisting-mockup.png" style="border: 1px solid black">
+<image src="assets/images/mockups/createlisting-mockup.png" style="border: 1.5px solid black">
