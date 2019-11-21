@@ -48,15 +48,15 @@ When a user clicks on a card from the marketplace, they can see all the availabl
 Logged in users can create listings that will be displayed on the marketplace.
 <image src="assets/images/mockups/createlisting-mockup.png" style="border: 1px solid black">
 
+## Books For Bows' Current Layout
+
+### Galaxy Deployed Landing Page
+Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
+[<image src="assets/images/mockups/createlisting-mockup.png">](https://www.wikihow.com/Make-a-Smoothie-Bowl)
+
 ## Useful Links:
 
 * [Books For Bows GitHub Organization](https://github.com/books-for-bows)
 * [Books For Bows Deployed on Galaxy]()
 * [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
 * [Milestone 2]()
-
-## Books For Bows' Current Layout
-
-### Galaxy Deployed Landing Page
-Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
-[<image src="assets/images/mockups/createlisting-mockup.png">](https://www.wikihow.com/Make-a-Smoothie-Bowl)
