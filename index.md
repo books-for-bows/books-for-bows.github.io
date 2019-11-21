@@ -1,6 +1,7 @@
 ## Table of Contents
 
 * [Overview](#overview)
+* [Milestones](#milestones)
 * [Pages](#pages)
 
 ## Overview
@@ -11,12 +12,18 @@ Books for Bows is a web application that provides a market place for students to
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+You can view an early deployed version of the app here: [https://books-for-bows.meteorapp.com/#/](https://books-for-bows.meteorapp.com/)
+
 Components of the web application:
 
 * There are four primary collections (Users, Books, Classes, Listings)
 * Three main pages (Marketplace, Profile, Search) that uses the prior data collections and allows users to manipulate and filter through those collections.
 * Code that fills the database with default data for Users, Books, and Classes. To demonstrate usage of the marketplace.
 * A page to filter through different Classes and Books to query the collections to obtain a specific book.
+
+## Milestones
+* [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
+* [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
 
 ## Pages
 This section provides information and sample mockups of the app's pages.
