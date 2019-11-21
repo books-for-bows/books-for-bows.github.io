@@ -25,10 +25,10 @@ This section provides information and sample mockups of the app's pages.
 The landing page is presented to users upon first visiting the site.
 <img src="assets/images/mockups/landing-mockup.PNG" style="border: 1px solid black">
 
-### Login 
+### Login
 <img src="assets/images/mockups/login-mockup.png" style="border: 1px solid black">
 
-### Register 
+### Register
 <img src="assets/images/mockups/register-mockup.png" style="border: 1px solid black">
 
 ### Marketplace
@@ -47,3 +47,16 @@ When a user clicks on a card from the marketplace, they can see all the availabl
 ### Create Listing
 Logged in users can create listings that will be displayed on the marketplace.
 <image src="assets/images/mockups/createlisting-mockup.png" style="border: 1px solid black">
+
+## Useful Links:
+
+* [Books For Bows GitHub Organization](https://github.com/books-for-bows)
+* [Books For Bows Deployed on Galaxy]()
+* [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
+* [Milestone 2]()
+
+## Books For Bows' Current Layout
+
+### Galaxy Deployed Landing Page
+Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
+[<image src="assets/images/mockups/createlisting-mockup.png">](https://www.wikihow.com/Make-a-Smoothie-Bowl)
