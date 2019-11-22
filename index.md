@@ -35,15 +35,15 @@ This section provides information and sample mockups of the app's pages.
 ### Landing page
 
 The landing page is presented to users upon first visiting the site.
-<image src="assets/images/prototypes/landing-mockup0.png" style="border: 1.5px solid black">
+![Landing Page Image](assets/images/prototypes/landing-mockup0.png "Landing Page")
 
 ### Login
 
-<image src="assets/images/prototypes/login-mockup.png" style="border: 1.5px solid black">
+![Login Page](assets/images/prototypes/login-mockup.png "Login Page")
 
 ### Register
 
-<image src="assets/images/prototypes/register-mockup.png" style="border: 1.5px solid black">
+![Register Page](assets/images/prototypes/register-mockup.png "Register Page")
 
 ### Marketplace
 
@@ -55,46 +55,50 @@ Users will be able to see information about available textbook listings. Users d
 * Price (or price range if there are multiple sellers)
 * Course alphas that use the book
 
-<image src="assets/images/prototypes/marketplace-mockup.png" style="border: 1.5px solid black">
+![Marketplace Page](assets/images/prototypes/marketplace-mockup.png "Marketplace Page")
 
 ### Shelf
 
 When a user clicks on a card from the marketplace, they can see all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition or any pictures.
-<image src="assets/images/prototypes/shelf-mockup.png" style="border: 1.5px solid black">
+![Shelf Page](assets/images/prototypes/shelf-mockup.png "Shelf Page")
 
 ### Create Listing
 
 Logged in users can create listings that will be displayed on the marketplace.
-<image src="assets/images/prototypes/createlisting-mockup.png" style="border: 1px solid black">
+
+![Create Listing Page](assets/images/prototypes/createlisting-mockup.png "Create Listing Page")
 
 ## Milestone 1
 
 ### Galaxy Deployed Landing Page
 
 Here we have the first page to greet the user upon visiting the site.
-<image src="assets/images/mockups/landing-mockup.PNG">
+
+![Landing Page](assets/images/mockups/landing-mockup.PNG "Landing Page")
 
 ### Marketplace Page
 
 Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests.
-<image src="assets/images/mockups/marketplace-mockup.png">
+
+![Marketplace Page](assets/images/mockups/marketplace-mockup.png "Marketplace Page")
 
 ### Shelf Page
 
 When viewing a specific title, this is how the user will view it.
-<image src="assets/images/mockups/shelf-mockup.png">
+![Shelf Page](assets/images/prototypes/shelf-mockup.png "Shelf Page")
 
 ### Login Page
 
 To Login
-<image src="assets/images/SignInPage2.png">
+![Login Page](assets/images/SignInPage2.png "Login Page")
 
 ### Logout Page
 
 To Log Out
-<image src="assets/images/SignOutPage2.png">
+![Logout Page](assets/images/SignOutPage2.png "Logout Page")
 
 ### Register Page
 
 To Register
-<image src="assets/images/SignUpPage2.png">
+
+![Register Page](assets/images/SignUpPage2.png "Register Page")
