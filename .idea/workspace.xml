@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1662be4-7ee6-491e-a36b-6a49961ea8ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/SignIn Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/SignOut Page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/SignUp Page.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/mockups/createlisting-mockup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/mockups/landing-mockup.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mockups/landing-mockup.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/mockups/login-mockup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/mockups/marketplace-mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mockups/marketplace-mockup.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/mockups/register-mockup.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/mockups/shelf-mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mockups/shelf-mockup.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="f1662be4-7ee6-491e-a36b-6a49961ea8ac" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
