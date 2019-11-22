@@ -49,7 +49,7 @@ When a user clicks on a card from the marketplace, they can see all the availabl
 Logged in users can create listings that will be displayed on the marketplace.
 <image src="assets/images/mockups/createlisting-mockup.png" style="border: 1px solid black">
 
-## Milestone1
+## Milestone 1
 
 ### Galaxy Deployed Landing Page
 Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
@@ -66,6 +66,6 @@ When viewing a specific title, this is how the user will view it.
 ## Useful Links:
 
 * [Books For Bows GitHub Organization](https://github.com/books-for-bows)
-* [Books For Bows Deployed on Galaxy](books-for-bows.meteorapp.com)
+* [Books For Bows Deployed on Galaxy](http://books-for-bows.meteorapp.com/#/)
 * [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
 * [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
