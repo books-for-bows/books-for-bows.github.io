@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Pages](#pages)
-* [Books for Bows Milestone 1](#booksforbowsmilestone1)
+* [Books for Bows Milestone 1](#books for bows milestone 1)
 * [Milestone 1 Links](#usefullinks)
 
 ## Overview
