@@ -2,6 +2,8 @@
 
 * [Overview](#overview)
 * [Pages](#pages)
+* [Books for Bows Milestone 1](#Books for Bows Milestone 1)
+* [Milestone 1 Links](#Useful Links)
 
 ## Overview
 Books for Bows is a web application that provides a market place for students to buy and sell textbooks directly to other students. It is built with the technology stack that consists of:
@@ -48,15 +50,23 @@ When a user clicks on a card from the marketplace, they can see all the availabl
 Logged in users can create listings that will be displayed on the marketplace.
 <image src="assets/images/mockups/createlisting-mockup.png" style="border: 1px solid black">
 
-## Books For Bows' Current Layout
+## Books For Bows Milestone 1
 
 ### Galaxy Deployed Landing Page
 Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
-[<image src="assets/images/mockups/createlisting-mockup.png">](https://www.wikihow.com/Make-a-Smoothie-Bowl)
+[<image src="assets/images/mockups/landing-mockup.png">](http://books-for-bows.meteorapp.com/#/)
+
+### Marketplace Page
+Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests. 
+<image src="assets/images/mockups/marketplace-mockup.png">
+
+### Shelf Page
+When viewing a specific title, this is how the user will view it. 
+<image src="assets/images/mockups/shelf.png">
 
 ## Useful Links:
 
 * [Books For Bows GitHub Organization](https://github.com/books-for-bows)
-* [Books For Bows Deployed on Galaxy]()
+* [Books For Bows Deployed on Galaxy](books-for-bows.meteorapp.com)
 * [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
-* [Milestone 2]()
+* [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
