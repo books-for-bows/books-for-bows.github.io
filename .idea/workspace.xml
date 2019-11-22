@@ -2,6 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31abdd8c-2305-40c9-8b46-a8846c235c5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/books-for-bows.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SignInPage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SignOutPage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/SignUpPage2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/prototypes/landing-mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/prototypes/marketplace-mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/prototypes/shelf-mockup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mockups/createlisting-mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/prototypes/createlisting-mockup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mockups/landing-mockup.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mockups/landing-mockup.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mockups/login-mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/prototypes/login-mockup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mockups/marketplace-mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mockups/marketplace-mockup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mockups/register-mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/prototypes/register-mockup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/mockups/shelf-mockup.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/mockups/shelf-mockup.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
