@@ -73,12 +73,11 @@ When viewing a specific title, this is how the user will view it.
 
 ### Login Page
 To Login
-[<image src="assets/images/SignInPage2.png">](http://books-for-bows.meteorapp.com/#/signin)
+<image src="assets/images/SignInPage2.png">
 
 ### Logout Page
 To Log Out
-[<image src="assets/images/SignOutPage2.png">](http://books-for-bows.meteorapp.com/#/signout)
+<image src="assets/images/SignOutPage2.png">
 
 ### Register Page
-To Register
-[<image src="assets/images/SignUpPage2.png">](http://books-for-bows.meteorapp.com/#/signup)
+<image src="assets/images/SignUpPage2.png">
