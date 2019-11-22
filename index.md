@@ -61,7 +61,7 @@ Once on the Marketplace page, the user can browse over a number of titles releva
 
 ### Shelf Page
 When viewing a specific title, this is how the user will view it. 
-<image src="assets/images/mockups/shelf.png">
+<image src="assets/images/mockups/shelf-mockup.png">
 
 ## Useful Links:
 
