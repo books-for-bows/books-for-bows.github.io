@@ -22,7 +22,10 @@ Components of the web application:
 * Code that fills the database with default data for Users, Books, and Classes. To demonstrate usage of the marketplace.
 * A page to filter through different Classes and Books to query the collections to obtain a specific book.
 
-## Milestones
+## Useful Links
+
+* [Books For Bows GitHub Organization](https://github.com/books-for-bows)
+* [Books For Bows Deployed on Galaxy](http://books-for-bows.meteorapp.com/#/)
 * [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
 * [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
 
@@ -59,21 +62,13 @@ Logged in users can create listings that will be displayed on the marketplace.
 ## Milestone1
 
 ### Galaxy Deployed Landing Page
-Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
-[<image src="assets/images/mockups/landing-mockup.PNG">](http://books-for-bows.meteorapp.com/#/)
+Here we have the first page to greet the user upon visiting the site.
+<image src="assets/images/mockups/landing-mockup.PNG">
 
 ### Marketplace Page
-Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests. 
+Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests.
 <image src="assets/images/mockups/marketplace-mockup.png">
 
 ### Shelf Page
-When viewing a specific title, this is how the user will view it. 
+When viewing a specific title, this is how the user will view it.
 <image src="assets/images/mockups/shelf-mockup.png">
-
-## Useful Links:
-
-* [Books For Bows GitHub Organization](https://github.com/books-for-bows)
-* [Books For Bows Deployed on Galaxy](http://books-for-bows.meteorapp.com/#/)
-* [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
-* [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
-
