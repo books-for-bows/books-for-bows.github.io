@@ -70,7 +70,19 @@ Once on the Marketplace page, the user can browse over a number of titles releva
 When viewing a specific title, this is how the user will view it. 
 <image src="assets/images/mockups/shelf-mockup.png">
 
-## Useful Links:
+### Login Page
+To Login
+[<image src="assets/images/SignInPage2.png">](http://books-for-bows.meteorapp.com/#/signin)
+
+### Logout Page
+To Sign Out
+[<image src="assets/images/SignOutPage2.png">](http://books-for-bows.meteorapp.com/#/signout)
+
+### SignUp Page
+To Sign Up
+[<image src="assets/images/SignUpPage2.png">](http://books-for-bows.meteorapp.com/#/signup)
+
+## Milestone 1 Links:
 
 * [Books For Bows GitHub Organization](https://github.com/books-for-bows)
 * [Books For Bows Deployed on Galaxy](http://books-for-bows.meteorapp.com/#/)
