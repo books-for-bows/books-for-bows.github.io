@@ -60,11 +60,11 @@ Logged in users can create listings that will be displayed on the marketplace.
 
 ### Galaxy Deployed Landing Page
 Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
-[<image src="assets/images/mockups/landing-mockup.PNG">](http://books-for-bows.meteorapp.com/#/)
+[<image src="assets/images/mockups/landing-mockup.png">](http://books-for-bows.meteorapp.com/#/)
 
 ### Marketplace Page
 Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests. 
-<image src="assets/images/mockups/marketplace-mockup.png">
+[<image src="assets/images/mockups/marketplace-mockup.png">](http://books-for-bows.meteorapp.com/#/marketplace)
 
 ### Shelf Page
 When viewing a specific title, this is how the user will view it. 
