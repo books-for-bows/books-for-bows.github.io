@@ -3,7 +3,7 @@
 * [Overview](#overview)
 * [Milestones](#milestones)
 * [Pages](#pages)
-* [Milestone 1](#milestone1)
+* [Useful Links](#useful-links)
 
 ## Overview
 Books for Bows is a web application that provides a market place for students to buy and sell textbooks directly to other students. It is built with the technology stack that consists of:
@@ -12,8 +12,6 @@ Books for Bows is a web application that provides a market place for students to
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
-
-You can view an early deployed version of the app here: [https://books-for-bows.meteorapp.com/](https://books-for-bows.meteorapp.com/)
 
 Components of the web application:
 
@@ -59,7 +57,7 @@ When a user clicks on a card from the marketplace, they can see all the availabl
 Logged in users can create listings that will be displayed on the marketplace.
 <image src="assets/images/prototypes/createlisting-mockup.png" style="border: 1px solid black">
 
-## Milestone1
+## Milestone 1
 
 ### Galaxy Deployed Landing Page
 Here we have the first page to greet the user upon visiting the site.
@@ -72,3 +70,15 @@ Once on the Marketplace page, the user can browse over a number of titles releva
 ### Shelf Page
 When viewing a specific title, this is how the user will view it.
 <image src="assets/images/mockups/shelf-mockup.png">
+
+### Login Page
+To Login
+[<image src="assets/images/SignInPage2.png">](http://books-for-bows.meteorapp.com/#/signin)
+
+### Logout Page
+To Log Out
+[<image src="assets/images/SignOutPage2.png">](http://books-for-bows.meteorapp.com/#/signout)
+
+### Register Page
+To Register
+[<image src="assets/images/SignUpPage2.png">](http://books-for-bows.meteorapp.com/#/signup)
