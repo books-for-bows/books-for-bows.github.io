@@ -39,11 +39,11 @@ The landing page is presented to users upon first visiting the site.
 
 ### Login
 
-<img src="assets/images/prototypes/login-mockup.png" style="border: 1.5px solid black">
+<image src="assets/images/prototypes/login-mockup.png" style="border: 1.5px solid black">
 
 ### Register
 
-<img src="assets/images/prototypes/register-mockup.png" style="border: 1.5px solid black">
+<image src="assets/images/prototypes/register-mockup.png" style="border: 1.5px solid black">
 
 ### Marketplace
 
