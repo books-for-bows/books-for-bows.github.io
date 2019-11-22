@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Pages](#pages)
-* [Milestone1](#milestone1)
+* [Milestone 1](#milestone1)
 
 ## Overview
 Books for Bows is a web application that provides a market place for students to buy and sell textbooks directly to other students. It is built with the technology stack that consists of:
@@ -49,7 +49,7 @@ When a user clicks on a card from the marketplace, they can see all the availabl
 Logged in users can create listings that will be displayed on the marketplace.
 <image src="assets/images/mockups/createlisting-mockup.png" style="border: 1px solid black">
 
-## Milestone 1
+## Milestone1
 
 ### Galaxy Deployed Landing Page
 Here we have the first page to greet the user upon visiting the site. Click on the image to view this page
