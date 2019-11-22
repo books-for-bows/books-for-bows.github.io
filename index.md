@@ -75,11 +75,11 @@ To Login
 [<image src="assets/images/SignInPage2.png">](http://books-for-bows.meteorapp.com/#/signin)
 
 ### Logout Page
-To Sign Out
+To Log Out
 [<image src="assets/images/SignOutPage2.png">](http://books-for-bows.meteorapp.com/#/signout)
 
-### SignUp Page
-To Sign Up
+### Register Page
+To Register
 [<image src="assets/images/SignUpPage2.png">](http://books-for-bows.meteorapp.com/#/signup)
 
 ## Milestone 1 Links:
