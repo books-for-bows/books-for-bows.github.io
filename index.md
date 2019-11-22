@@ -2,7 +2,7 @@
 
 * [Overview](#overview)
 * [Pages](#pages)
-* [Milestone 1](#milestone1)
+* [Milestone 1](#milestone 1)
 
 ## Overview
 Books for Bows is a web application that provides a market place for students to buy and sell textbooks directly to other students. It is built with the technology stack that consists of:
