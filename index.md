@@ -33,22 +33,24 @@ Components of the web application:
 
 ### Landing page
 
-The landing page is presented to users upon first visiting the site.
+Welcome to the Books for Bows website! This landing page will greet you upon arrival to our site. 
 ![Landing Page Image](assets/images/prototypes/landing-mockup0.png "Landing Page")
 
 ### Login
 
+If you have already made an account you can log in.
 ![Login Page](assets/images/prototypes/login-mockup.png "Login Page")
 
 ### Register
 
+You can make an account here. Accounts will provide you with access to additional pages and features. 
 ![Register Page](assets/images/prototypes/register-mockup.png "Register Page")
 
 ### Marketplace
 
-Users will be able to see information about available textbook listings. Users don't need to be logged in to see this. If multiple users are selling the same book, only one card is shown. Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests.
- The card will display:
+Anyone can come to the marketplace to see all the textbooks available for purchase. Each book card acts like a folder which contains the listings for the textbook it represents. As long as there is at least one listing for a textbook, a book card will appear in the marketplace. 
 
+The card displays:
 * Image of cover
 * Title
 * Author
@@ -59,7 +61,8 @@ Users will be able to see information about available textbook listings. Users d
 
 ### Shelf
 
-When a user clicks on a card from the marketplace, they can see all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition or any pictures.
+When you click on a card from the marketplace, you will be taken to a new page. Here, you are able to view all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition or any pictures.
+
 ![Shelf Page](assets/images/prototypes/shelf-mockup.png "Shelf Page")
 
 ### Create Listing
