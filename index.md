@@ -1,9 +1,9 @@
 ## Table of Contents
 
 * [Overview](#overview)
-* [Milestones](#milestones)
-* [Pages](#pages)
 * [Useful Links](#useful-links)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 
 ## Overview
 
@@ -27,10 +27,9 @@ Components of the web application:
 * [Books For Bows Deployed on Galaxy](http://books-for-bows.meteorapp.com/#/)
 * [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
 * [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
+* [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4)
 
-## Pages
-
-This section provides information and sample mockups of the app's pages.
+## User Guide
 
 ### Landing page
 
