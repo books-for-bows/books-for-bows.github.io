@@ -46,7 +46,8 @@ The landing page is presented to users upon first visiting the site.
 
 ### Marketplace
 
-Users will be able to see information about available textbook listings. Users don't need to be logged in to see this. If multiple users are selling the same book, only one card is shown. The card will display:
+Users will be able to see information about available textbook listings. Users don't need to be logged in to see this. If multiple users are selling the same book, only one card is shown. Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests.
+ The card will display:
 
 * Image of cover
 * Title
@@ -66,38 +67,3 @@ When a user clicks on a card from the marketplace, they can see all the availabl
 Logged in users can create listings that will be displayed on the marketplace.
 
 ![Create Listing Page](assets/images/prototypes/createlisting-mockup.png "Create Listing Page")
-
-## Milestone 1
-
-### Galaxy Deployed Landing Page
-
-Here we have the first page to greet the user upon visiting the site.
-
-![Landing Page](assets/images/mockups/landing-mockup.PNG "Landing Page")
-
-### Marketplace Page
-
-Once on the Marketplace page, the user can browse over a number of titles relevant to their major and interests.
-
-![Marketplace Page](assets/images/mockups/marketplace-mockup.png "Marketplace Page")
-
-### Shelf Page
-
-When viewing a specific title, this is how the user will view it.
-![Shelf Page](assets/images/prototypes/shelf-mockup.png "Shelf Page")
-
-### Login Page
-
-To Login
-![Login Page](assets/images/SignInPage2.png "Login Page")
-
-### Logout Page
-
-To Log Out
-![Logout Page](assets/images/SignOutPage2.png "Logout Page")
-
-### Register Page
-
-To Register
-
-![Register Page](assets/images/SignUpPage2.png "Register Page")
