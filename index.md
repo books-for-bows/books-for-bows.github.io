@@ -1,3 +1,4 @@
+
 ## Table of Contents
 
 * [Overview](#overview)
@@ -70,6 +71,19 @@ Logged in users can edit their previously made listings.
 
 
 ## Community Feedback 
+
+As of Dec 17, 2019, a general consensus of the feedback for our website: 
+### Pros:
+* Minimalistic design 
+* Ability to preview book cover 
+* Easily see which textbooks are needed for specific courses
+* Easy to use and navigate 
+
+### Cons:
+* Lengthy landing page -> shorter landing page; put the different sections into a smaller grid
+* UH courses only; some students take classes on multiple campuses -> accomodate multiple campuses
+* Loading sometimes takes a while -> sorry about that
+* No way to contact seller rather than just through emails -> chatroom 
 
 We appreciate the feedback and will take it into consideration for future Books for Bows updates. 
 
