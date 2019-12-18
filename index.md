@@ -78,6 +78,7 @@ As of Dec 17, 2019, a general consensus of the feedback for our website:
 * Ability to preview book cover 
 * Easily see which textbooks are needed for specific courses
 * Easy to use and navigate 
+* Icon in tab is cute
 
 ### Cons:
 * Lengthy landing page -> shorter landing page; put the different sections into a smaller grid
