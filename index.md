@@ -88,6 +88,41 @@ It is built with the technology stack that consists of:
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+### Installation
+1. [Install Meteor](https://www.meteor.com/install)
+2. Visit the Github [repository](https://github.com/books-for-bows/books-for-bows) and clone the repository to your computer.
+3. Change directory to where you download the repository and into the app directory and run the command:
+
+```
+$ meteor npm install
+```
+
+4. To run the app without a Google Books API key (limited requests) use this command:
+
+```
+$ meteor npm run start
+```
+
+If everything works, the application will show up on [http://localhost:3000](http://localhost:3000).
+
+If you would like to be able to have more requests, you can sign up for a [Google Books API key](https://developers.google.com/books/).
+
+Then creat a copy of settings.development.json in the app/config directory and name the file settings.production.json and at the top of the file add:
+
+```json
+"public": {
+    "api_key": "YOUR_API_KEY_HERE"
+},
+```
+
+And to run the app with the API key use this command:
+
+```
+$ meteor npm run start-prod
+```
+
+Like before, the application should show on [http://localhost:3000](http://localhost:3000).
+
 
 ## Development History 
 ### [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2) - Prototypes and Mockups 
