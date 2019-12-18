@@ -28,9 +28,7 @@ We decided to create this project because shopping for textbooks can be confusin
 * [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4)
 
 ## User Guide
-
 ### Landing page
-
 Welcome to the Books for Bows website! This landing page will greet you upon arrival to our site.
 
 ![Landing Page Image](assets/images/Landing.png "Landing Page")
@@ -40,11 +38,9 @@ The landing page includes some features about our website such as the amount of 
 ![Compare Listings Image](assets/images/Landing_CompareListing.png "Compare Listings")
 
 ### Login or Register
-
-You can click on the profile link in the NavBar to login or make an account. Accounts will provide you with access to additional pages and features. 
+You can click on the login link in the top right corner of the page login or make an account. Accounts will provide you with access to additional pages and features, such as browsing available listings and creating or editing listings.
 
 ### Marketplace
-
 Anyone can come to the marketplace to see all the textbooks available for purchase. Each book card acts like a folder which contains the listings for the textbook it represents. As long as there is at least one listing for a textbook, a book card will appear in the marketplace. 
 
 The card displays:
@@ -52,31 +48,29 @@ The card displays:
 * Title
 * Author
 * ISBN
-* Course alphas that use the book
-* A link to the all the listings of that book 
+* Course alphas that use the textbook 
+* A link to the all the listings of the textbook 
 
 ![Marketplace Page](assets/images/Marketplace.png "Marketplace Page")
 
 ### Shelf
-
-When you click on a card from the marketplace, you will be taken to a new page. Here, logged in users are able to view all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition of the book. 
+When you click on the "View Listings" link on a book card in the marketplace, you will be taken to a new page. Here, logged in users are able to view all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition of the book. 
 
 ![Shelf Page](assets/images/ShelfPage.png "Shelf Page")
 
 ### Create Listing
-
 Logged in users can create listings that will be displayed on the marketplace.
 
 ![Create Listing Page](assets/images/AddListing.png "Create Listing Page")
 
 ### Edit Listing
-
 Logged in users can edit their previously made listings. 
 
 ![Edit Listing Page](assets/images/EditListing.png "Edit Listing Page")
 
 
 ## Community Feedback 
+
 We appreciate the feedback and will take it into consideration for future Books for Bows updates. 
 
 
@@ -88,7 +82,6 @@ It is built with the technology stack that consists of:
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
-
 
 ## Development History 
 ### [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2) - Prototypes and Mockups 
