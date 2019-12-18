@@ -9,13 +9,13 @@
 
 ## Overview
 
-![Landing Page Image](assets/images/Landing.png "Landing Page")
+![Landing Page Image](assets/images/Landing_Favicon.png "Landing Page")
 
 [Books for Bows](https://github.com/books-for-bows) is a marketplace for University of Hawai’i students to buy textbooks from and sell textbooks directly to fellow students. 
 
 We decided to create this project because shopping for textbooks can be confusing, difficult, and frustrating:
 * The campus bookstore is expensive and wasteful; you don't NEED a brand new book if you are going to use it for one semester. 
-* It's hard to filter for UH textbooks on Craigslist, and you have to sort through all the textbooks listed.
+* It's hard to filter for only UH textbooks on Craigslist, and you have to sort through all the textbooks listed.
 * Sometimes it can be hard to tell if you have the right book and you may accidentally buy the international version. 
 * Even if you find a cheaper book online, shipping is a real hassle. The cost to ship can bring the overall price of the textbook to the original price anyway, not to mention that it could take a month of the book to actually arrive on island. 
 
@@ -31,17 +31,20 @@ We decided to create this project because shopping for textbooks can be confusin
 
 ### Landing page
 
-Welcome to the Books for Bows website! This landing page will greet you upon arrival to our site. 
+Welcome to the Books for Bows website! This landing page will greet you upon arrival to our site.
+
 ![Landing Page Image](assets/images/Landing.png "Landing Page")
 
 ### Login
 
 If you have already made an account you can log in.
+
 ![Login Page](assets/images/prototypes/login-mockup.png "Login Page")
 
 ### Register
 
 You can make an account here. Accounts will provide you with access to additional pages and features. 
+
 ![Register Page](assets/images/prototypes/register-mockup.png "Register Page")
 
 ### Marketplace
@@ -91,22 +94,19 @@ It is built with the technology stack that consists of:
 ## Development History 
 ### [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2) - Prototypes and Mockups 
 (Nov 9 2019 – Nov 21 2019) 
-* [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
 
 ![Bookstore Page](assets/images/prototypes/Bookstore.png "Bookstore Page"){:height="25%" width="25%"}
 
-### Milestone 2
+### [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3) - 
 (Nov 22 2019 – Dec 4 2019) 
-* [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
 
 ![Marketplace Page](assets/images/mockups/marketplace-mockup.png "Marketplace Page"){:height="40%" width="40%"}
-![Landing Page](assets/images/mockups/landing.png "Landing Page"){:height="40%" width="40%"}
+![Landing Page](assets/images/mockups/landing.png "Landing Page"){:height="50%" width="50%"}
 
-### Milestone 3 
+### [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4) - Improved Functionality and Redesign
 (Dec 5 2019 – Dec 17 2019) 
-* [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4)
 
-![Current Marketplace Page](assets/images/Marketplace.png "Current Page"){:height="40%" width="40%"}
+![Current Marketplace Page](assets/images/Marketplace.png "Current Page"){:height="50%" width="50%"}
 
 ### Milestone 4 – Moving Forward 
 In the future we hope to implement improved functionality and features, based on the feedback we received in Milestone 3. 
