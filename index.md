@@ -104,7 +104,7 @@ It is built with the technology stack that consists of:
 ### Milestone 3 
 (Dec 5 2019 – Dec 17 2019) 
 * [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4)
-![Current Marketplace Page](assets/images/prototypes/Bookstore.png "Current Page"){:height="25%" width="25%"}
+![Current Marketplace Page](assets/images/Marketplace.png "Current Page"){:height="25%" width="25%"}
 
 ### Milestone 4 – Moving Forward 
 In the future we hope to implement improved functionality and features, based on the feedback we received in Milestone 3. 
