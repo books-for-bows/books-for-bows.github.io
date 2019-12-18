@@ -90,17 +90,21 @@ It is built with the technology stack that consists of:
 
 
 ## Development History 
-### Milestone 1 
+### Milestone 1 - Prototypes and Mockups 
 (Nov 9 2019 – Nov 21 2019) 
 * [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
+![Bookstore Page](assets/images/prototypes/Bookstore.png "Bookstore Page"){:height="25%" width="25%"}
+
 
 ### Milestone 2
 (Nov 22 2019 – Dec 4 2019) 
 * [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
+![Marketplace Page](assets/images/mockups/marketplace-mockup.png "Marketplace Page"){:height="25%" width="25%"}
 
 ### Milestone 3 
 (Dec 5 2019 – Dec 17 2019) 
 * [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4)
+![Current Marketplace Page](assets/images/prototypes/Bookstore.png "Current Page"){:height="25%" width="25%"}
 
 ### Milestone 4 – Moving Forward 
 In the future we hope to implement improved functionality and features, based on the feedback we received in Milestone 3. 
