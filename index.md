@@ -35,34 +35,31 @@ Welcome to the Books for Bows website! This landing page will greet you upon arr
 
 ![Landing Page Image](assets/images/Landing.png "Landing Page")
 
-### Login
+The landing page includes some features about our website such as the amount of listings available. 
 
-If you have already made an account you can log in.
+![Compare Listings Image](assets/images/Landing_CompareListing.png "Compare Listings")
 
-![Login Page](assets/images/prototypes/login-mockup.png "Login Page")
+### Login or Register
 
-### Register
-
-You can make an account here. Accounts will provide you with access to additional pages and features. 
-
-![Register Page](assets/images/prototypes/register-mockup.png "Register Page")
+You can click on the profile link in the NavBar to login or make an account. Accounts will provide you with access to additional pages and features. 
 
 ### Marketplace
 
 Anyone can come to the marketplace to see all the textbooks available for purchase. Each book card acts like a folder which contains the listings for the textbook it represents. As long as there is at least one listing for a textbook, a book card will appear in the marketplace. 
 
 The card displays:
-* Image of cover
+* Image of cover (or a default image if there is no cover available)
 * Title
 * Author
-* Price (or price range if there are multiple sellers)
+* ISBN
 * Course alphas that use the book
+* A link to the all the listings of that book 
 
 ![Marketplace Page](assets/images/Marketplace.png "Marketplace Page")
 
 ### Shelf
 
-When you click on a card from the marketplace, you will be taken to a new page. Here, you are able to view all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition or any pictures.
+When you click on a card from the marketplace, you will be taken to a new page. Here, logged in users are able to view all the available listings of the associated textbook, as well as additional information supplied by the seller such as condition of the book. 
 
 ![Shelf Page](assets/images/ShelfPage.png "Shelf Page")
 
@@ -78,8 +75,10 @@ Logged in users can edit their previously made listings.
 
 ![Edit Listing Page](assets/images/EditListing.png "Edit Listing Page")
 
+
 ## Community Feedback 
 We appreciate the feedback and will take it into consideration for future Books for Bows updates. 
+
 
 ## Developer Guide 
 
@@ -97,7 +96,7 @@ It is built with the technology stack that consists of:
 
 ![Bookstore Page](assets/images/prototypes/Bookstore.png "Bookstore Page"){:height="25%" width="25%"}
 
-### [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3) - 
+### [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3) - First Look and Limited Functionality
 (Nov 22 2019 – Dec 4 2019) 
 
 ![Marketplace Page](assets/images/mockups/marketplace-mockup.png "Marketplace Page"){:height="40%" width="40%"}
