@@ -3,16 +3,21 @@
 * [Overview](#overview)
 * [Useful Links](#useful-links)
 * [User Guide](#user-guide)
+* [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Development History](#development-history)
 
 ## Overview
 
-Books for Bows is a web application that provides a market place for students to buy and sell textbooks directly to other students. It is built with the technology stack that consists of:
+![Landing Page Image](assets/images/prototypes/landing-mockup0.png "Landing Page")
 
-* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
-* [React](https://reactjs.org/) for component-based UI implementation and routing.
-* [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+[Books for Bows](https://github.com/books-for-bows) is a marketplace for University of Hawai’i students to buy textbooks from and sell textbooks directly to fellow students. 
+
+We decided to create this project because shopping for textbooks can be confusing, difficult, and frustrating:
+* The campus bookstore is expensive and wasteful; you don't NEED a brand new book if you are going to use it for one semester. 
+* It's hard to filter for UH textbooks on Craigslist, and you have to sort through all the textbooks listed.
+* Sometimes it can be hard to tell if you have the right book and you may accidentally buy the international version. 
+* Even if you find a cheaper book online, shipping is a real hassle. The cost to ship can bring the overall price of the textbook to the original price anyway, not to mention that it could take a month of the book to actually arrive on island. 
 
 Components of the web application:
 
@@ -70,3 +75,33 @@ When you click on a card from the marketplace, you will be taken to a new page. 
 Logged in users can create listings that will be displayed on the marketplace.
 
 ![Create Listing Page](assets/images/prototypes/createlisting-mockup.png "Create Listing Page")
+
+## Community Feedback 
+We appreciate the feedback and will take it into consideration for future Books for Bows updates. 
+
+## Developer Guide 
+
+It is built with the technology stack that consists of:
+
+* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
+* [React](https://reactjs.org/) for component-based UI implementation and routing.
+* [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
+* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+
+## Development History 
+### Milestone 1 
+(Date 2019 – 2019) 
+* [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
+
+### Milestone 2
+(Date 2019 – 2019) 
+* [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
+
+### Milestone 3 
+(Date 2019 – 2019) 
+* [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4)
+
+### Milestone 4 – Moving Forward 
+In the future we hope to implement improved functionality and features, based on the feedback we received in Milestone 3. 
+
