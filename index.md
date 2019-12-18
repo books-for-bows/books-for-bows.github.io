@@ -91,15 +91,15 @@ It is built with the technology stack that consists of:
 
 ## Development History 
 ### Milestone 1 
-(Date 2019 – 2019) 
+(Nov 9 2019 – Nov 21 2019) 
 * [Milestone 1](https://github.com/books-for-bows/books-for-bows/projects/2)
 
 ### Milestone 2
-(Date 2019 – 2019) 
+(Nov 22 2019 – Dec 4 2019) 
 * [Milestone 2](https://github.com/books-for-bows/books-for-bows/projects/3)
 
 ### Milestone 3 
-(Date 2019 – 2019) 
+(Dec 5 2019 – Dec 17 2019) 
 * [Milestone 3](https://github.com/books-for-bows/books-for-bows/projects/4)
 
 ### Milestone 4 – Moving Forward 
