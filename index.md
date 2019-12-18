@@ -11,7 +11,7 @@
 
 ![Landing Page Image](assets/images/Landing_Favicon.png "Landing Page")
 
-[Books for Bows](https://github.com/books-for-bows) is a marketplace for University of Hawai’i students to buy textbooks from and sell textbooks directly to fellow students. 
+[Books for Bows](http://books-for-bows.meteorapp.com/#/) is a marketplace for University of Hawai’i students to buy textbooks from and sell textbooks directly to fellow students. 
 
 We decided to create this project because shopping for textbooks can be confusing, difficult, and frustrating:
 * The campus bookstore is expensive and wasteful; you don't NEED a brand new book if you are going to use it for one semester. 
